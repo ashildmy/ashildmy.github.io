@@ -24,3 +24,10 @@ p {
 a {
   color: #393E46;
 }
+
+@media (max-width: 768px){
+  .center{
+    top: 15%;
+    padding: 0 25px;
+  }
+}
