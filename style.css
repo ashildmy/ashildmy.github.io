@@ -1,7 +1,19 @@
-h1 {
-  text-align: center
+body {
+  text-align: left;
+  margin: 0 auto;
+  width: 450px;
 }
 
-p {
-  text-align: center
+.center {
+  position: relative;
+  top: 37%;
+  transform: translateY(-50%);
+}
+
+h1, p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #6E6E6E;
 }
