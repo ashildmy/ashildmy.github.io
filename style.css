@@ -5,8 +5,8 @@ body {
 
 .center {
   position: relative;
-  top: 37%;
-  transform: translateY(-50%);
+  top: 15%;
+  /* transform: translateY(-50%); */
   max-width: 450px;
   margin: 0 auto;
 }
