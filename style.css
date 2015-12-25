@@ -31,3 +31,16 @@ a {
     padding: 0 25px;
   }
 }
+
+.circular {
+  position: absolute;
+  top: -5%;
+  right: 105%;
+  width: 75px;
+  height: 75px;
+  border-radius: 150px;
+  -moz-border-radius: 150px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
